@@ -7,4 +7,4 @@ The docker-compose file in the repository creates and runs all the services. To 
 ```bash
 docker-compose up -d
 ```
-After running the above command, you can check the app at http://127.0.0.1:3000
+After running the above command, you can check the app at http://127.0.0.1:3000 or you can deployed it on any cloud platform, as I have deployed it on AWS.
